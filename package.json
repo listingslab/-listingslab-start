@@ -1,0 +1,16 @@
+{
+  "name": "@listingslab/start",
+  "version": "1.0.0",
+  "description": "Get started here",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/listingslab/-listingslab-start"
+  },
+  "keywords": ["listingslab"],
+  "author": "milky <listingslab@gmail.com>",
+  "license": "MIT"
+}
